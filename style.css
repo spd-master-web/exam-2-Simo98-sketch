@@ -104,7 +104,15 @@ nav {
 }
 
 .product {
-text-align: center;
+  text-align: center;
+  margin-top: 50px; 
+  width: 28%;
+  display: inline-block; 
+  margin: 2%;
 }
 
+.product img {
+  width: 100%;
+  height: auto;
+}
 
