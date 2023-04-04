@@ -77,10 +77,11 @@ p {
 }
 
 a {
-background-color: lightgray;
-color:black;
-cursor: pointer;
-text-decoration: underline;
+  background-color: lightgray;
+  color: black;
+  cursor: pointer;
+  float: center;
+  position: static;
 }
 
 title {
