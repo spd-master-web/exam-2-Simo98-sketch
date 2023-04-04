@@ -101,6 +101,8 @@ nav {
   padding: 100px 0;
   background-color: lightgray;
   text-align: center;
+  color: black;
+  font-size: 30px;
 }
 
 .product {
