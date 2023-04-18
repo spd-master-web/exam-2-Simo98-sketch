@@ -151,16 +151,16 @@ ul {
 
 .first {
   text-align: left;
-  grid-column-start: 1;
+  justify-content: flex-start;
 }
 
 .second {
   text-align: center;
-  grid-column-end: 2;
+  justify-content: center;
 }
 
 
 .third {
   text-align: right;
-  grid-column-end: 3;
+  justify-content: flex-end;
 }
