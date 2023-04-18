@@ -121,6 +121,7 @@ nav {
   margin-right: 0%;
   padding-left: 80px;
   display: block;
+  justify-content: space-around;
 }
 
 .product {
