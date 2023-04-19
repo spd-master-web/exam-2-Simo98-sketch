@@ -7,8 +7,8 @@ word-spacing: 1rem;
 }
 
 .body {
-background-color: black;
-margin: 8px;
+background-color: white;
+margin: 0;
 }
 
 .button {
@@ -121,7 +121,17 @@ nav {
   margin-right: 0%;
   padding-left: 80px;
   display: block;
+}
+
+nav ul {
+  padding: 0;
+  list-style: none;
+  display: flex;
   justify-content: space-around;
+}
+
+nav ul li a {
+  text-decoration: none;
 }
 
 .product {
