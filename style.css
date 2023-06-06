@@ -1,0 +1,177 @@
+.html {
+background-color: black;
+}
+
+title {
+word-spacing: 1rem;
+}
+
+.body {
+background-color: white;
+margin: 0;
+}
+
+.button {
+  background-color: darkorange;
+  color: white;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+  display: block;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: 'Work Sans', sans-serif;
+  text-align: center;
+  padding: 100px 0;
+  padding-left: 0%;
+  padding-right: 0%;
+  margin-top: 20px;
+  margin-left: 0%;
+  margin-right: 0%;
+  margin-bottom: 0%;
+  border-style: none;
+  width: auto;
+  height: auto;
+  overflow: hidden;
+  margin: auto;
+}
+
+h2 {
+  display: block;
+  margin-block-start: 1.33em;
+  margin-block-end: 1.33em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: 'Work Sans', sans-serif;
+}
+
+h3 {
+  display: block;
+  margin-block-start: 1.33em;
+  margin-block-end: 1.33em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: 'Work Sans', sans-serif;
+}
+
+h4 {
+  display: block;
+  margin-block-start: 1.33em;
+  margin-block-end: 1.33em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: 'Work Sans', sans-serif;
+  color: white;
+}
+
+img {
+    overflow: clip;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-size: 20px;
+  font-family: 'Work Sans', sans-serif;
+}
+
+a {
+  background-color: lightgray;
+  color: black;
+  cursor: pointer;
+  letter-spacing: 0;
+}
+
+title {
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  padding: 100px 0;
+  background-image: url("images/bkg-productfacts-liquid.png");
+  background-size: contain;
+  background-repeat: repeat-x;
+  text-align: center;
+}
+
+nav {
+  padding: 100px 0;
+  background-color: lightgray;
+  text-align: center;
+  color: black;
+  font-size: 30px;
+  margin-left: 0%;
+  margin-right: 0%;
+  padding-left: 80px;
+  display: block;
+}
+
+nav ul {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+nav ul li a {
+  text-decoration: none;
+}
+
+.product {
+  text-align: center;
+  margin-top: 50px; 
+  width: 28%;
+  display: inline-block; 
+  margin: 2%;
+}
+
+.product img {
+  width: 100%;
+  height: auto;
+}
+
+header {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-position: 50px 50px;
+  margin-left: 0%;
+  margin-right: 0%;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+.first {
+  text-align: left;
+  justify-content: flex-start;
+}
+
+.second {
+  text-align: center;
+  justify-content: center;
+}
+
+
+.third {
+  text-align: right;
+  justify-content: flex-end;
+}
